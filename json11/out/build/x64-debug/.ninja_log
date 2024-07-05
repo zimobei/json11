@@ -1,0 +1,6 @@
+# ninja log v5
+2	575	7418564922302103	CMakeFiles/json11.dir/JsonValue.cpp.obj	62f9af4c414d1af5
+5	761	7418564924177834	CMakeFiles/json11.dir/JsonParser.cpp.obj	470dc0c83f81b281
+842	1164	7418564927994120	json11.exe	1392a20075119170
+7	837	7418564925026091	CMakeFiles/json11.dir/Json11.cpp.obj	ee47d0fbbf19aa4f
+9	842	7418564925026091	CMakeFiles/json11.dir/test.cpp.obj	2fca72b4ecfe9290
